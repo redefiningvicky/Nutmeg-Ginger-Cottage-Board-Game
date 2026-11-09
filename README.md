@@ -36,7 +36,7 @@
 <h2 id="inspiration">🎬 Inspiration</h2>
 
 <p>
-  The original game was inspired by the <em>Shrek the Third</em> scene where Pinocchio uses clever logic to avoid lying to Prince Charming.
+  The original game was inspired by the Shrek the Third scene where Pinocchio uses clever logic to avoid lying to Prince Charming.
   This edition brings that playful approach to deduction around a shared table, with the original characters Nutmeg, Ginger, Timber, and Prince Fondant.
 </p>
 
@@ -61,8 +61,7 @@
 <p><strong>Tools:</strong> ChatGPT and AI image generation</p>
 <p><strong>Format:</strong> Physical board game concept and product mockups</p>
 <p><strong>Players:</strong> 2–8 people · Ages 8+ · Cooperative</p>
-<p><strong>Image Format:</strong> 1536 × 1024 px PNG · 3:2</p>
-<p><strong>Status:</strong> Visual concept; the images show an imagined physical edition, not a manufactured or playtested tabletop product.</p>
+<p><strong>Status:</strong> Visual concept; the images show an imagined physical edition.</p>
 
 <hr>
 
@@ -257,21 +256,19 @@
 <h2 id="digital-edition">🎮 Digital Edition</h2>
 
 <p>
-  This concept adapts the existing browser game into a tabletop experience.
+  This concept adapts the existing digital game into a tabletop experience.
   The digital edition remains a separate project.
 </p>
 
 <p>
-  <a href="https://nutmeg-ginger-cottage.airyant14.chatgpt.site">Play the Digital Game</a>
+  <a href="https://nutmeg-ginger-cottage.airyant14.chatgpt.site">Play Digital Game</a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage">View the Digital Game Repository</a>
+  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage">View Digital Game Project</a>
 </p>
 
 <hr>
 
 <div align="center">
-
-  <p>By Vicky Wong. Created with ChatGPT.</p>
 
   <p>
     <a href="https://github.com/redefiningvicky/Vibe-Coding-Projects">Back to Vibe Coding Projects</a>
