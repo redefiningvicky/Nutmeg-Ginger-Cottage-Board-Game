@@ -57,10 +57,9 @@
 
 <h2 id="project-details">🛠️ Project Details</h2>
 
-<p><strong>Tools:</strong> ChatGPT and AI image generation</p>
-<p><strong>Format:</strong> Physical board game concept and product mockups</p>
+<p><strong>Tools:</strong> ChatGPT</p>
+<p><strong>Format:</strong> Physical board game concept</p>
 <p><strong>Players:</strong> 2–8 people · Ages 8+ · Cooperative</p>
-<p><strong>Status:</strong> Visual concept; the images show an imagined physical edition.</p>
 
 <hr>
 
