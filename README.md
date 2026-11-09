@@ -36,7 +36,7 @@
 <h2 id="inspiration">🎬 Inspiration</h2>
 
 <p>
-  The original game was inspired by the <em>Shrek the Third</em> scene where Pinocchio uses clever logic to avoid lying to Prince Charming.
+  The original game was inspired by the Shrek the Third scene where Pinocchio uses clever logic to avoid lying to Prince Charming.
   This edition brings that playful approach to deduction around a shared table, with the original characters Nutmeg, Ginger, Timber, and Prince Fondant.
 </p>
 
