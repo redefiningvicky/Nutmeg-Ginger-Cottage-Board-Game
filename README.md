@@ -261,9 +261,9 @@
 </p>
 
 <p>
-  <a href="https://nutmeg-ginger-cottage.airyant14.chatgpt.site">Play the Digital Game</a>
+  <a href="https://nutmeg-ginger-cottage.airyant14.chatgpt.site">Play Digital Game</a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage">View the Digital Game Project</a>
+  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage">View Digital Game Project</a>
 </p>
 
 <hr>
