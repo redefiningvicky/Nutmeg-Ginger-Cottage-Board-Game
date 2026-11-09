@@ -256,7 +256,7 @@
 <h2 id="digital-edition">🎮 Digital Edition</h2>
 
 <p>
-  This concept adapts the existing browser game into a tabletop experience.
+  This concept adapts the existing digital game into a tabletop experience.
   The digital edition remains a separate project.
 </p>
 
