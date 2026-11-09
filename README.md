@@ -124,11 +124,6 @@
 
 <h2 id="design">🖼️ Board Game Design</h2>
 
-<p>
-  Forest green, buttercream, rose, lavender, and honey gold connect the box, cards, cottage pieces, and storybook instructions.
-  The images follow the player’s experience: discover the box, explore the components, play together, and reveal the ending.
-</p>
-
 <h3>Front Cover</h3>
 
 <table>
