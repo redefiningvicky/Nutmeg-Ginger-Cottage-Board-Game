@@ -2,7 +2,6 @@
 
   <h1>🏠 Nutmeg &amp; Ginger’s Cottage: Board Game Edition</h1>
 
-  <p>A little icing. A lot at stake.</p>
   <p>A cooperative fairytale board game concept built around logic riddles.</p>
 
 </div>
@@ -277,4 +276,3 @@
   </p>
 
 </div>
-
