@@ -59,7 +59,7 @@
 
 <p><strong>Tools:</strong> ChatGPT</p>
 <p><strong>Model:</strong> ChatGPT 6.1 Sol (2026)</p>
-<p><strong>Format:</strong> Images</p>
+<p><strong>Format:</strong> Image</p>
 <p><strong>Players:</strong> 2–8 people · Ages 8+ · Cooperative</p>
 
 <hr>
