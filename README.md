@@ -117,10 +117,6 @@
   Prince Fondant wins if the team cannot save their cottage.
 </p>
 
-<p>
-  The physical concept retains the digital rules. A production prototype still needs a precise scoring tracker, complete tabletop instructions, and component counts for all eight players.
-</p>
-
 <hr>
 
 <h2 id="design">🖼️ Board Game Design</h2>
